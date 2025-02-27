@@ -24,4 +24,5 @@ El usuario debe agregar nombres mediante un campo de texto y un botón "Adiciona
 ## ✔️ Tecnologías utilizadas
 
 - Java
+- HTML
   

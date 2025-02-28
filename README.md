@@ -2,6 +2,4 @@
 
 ![amigo-secreto](https://github.com/user-attachments/assets/166c9944-f588-4867-9d62-85d517e952d4)
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-
 
